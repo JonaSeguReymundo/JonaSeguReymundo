@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonatan Ernesto Segura Reymundo</h1>
 <h3 align="center">A passionate fullstack student from El Salvador 🇸🇻</h3>
 
-- 🔭 I’m currently working on **A fullstack university project focused on an app for students to practice Chemestry**
+  - 🔭 I’m currently working on **A university project focused on an app for students to practice Chemestry**
 
 - 🌱 I’m currently learning **AWS, Kotlin, Python and Android**
 
